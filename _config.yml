@@ -31,32 +31,32 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.    2. Import photos from your Photo Library from an album you've created in WorkCam 3. Send up to 50 photos at a time from your Photo Library to WorkCam via the iOS share sheet
 features                                  :
-  - title                                 : Camera
-    description                           : Scan receipts with your iPhone's camera. Scanned receipts will automatically processed with computer vision
+  - title                                 : Document Scanning
+    description                           : Quickly scan receipts with the Receipts app. Scanned receipts will automatically be processed with computer vision for easy entry and searching.
     fontawesome_icon_name                 : sync
 
   - title                                 : Import Files & Photos
-    description                           : Quickly and easily import your documents and photos from your iPhone's Files or Photo Library. Receipts can handle your images as well as PDF files
+    description                           : Quickly and easily import your receipt documents and photos from your iPhone's Files or Photo Library. The Receipts app can process image files as well as PDFs.
     fontawesome_icon_name                 : sync
 
   - title                                 : Organize
-    description                           : Create an unlimited amount of expenses and expense categories e.g. 'Office Supplies', 'Marketing', 'Advertisements' etc. Associate each of your expense with it's correct category for easiy filtering
+    description                           : Create an unlimited amount of expenses and categories e.g. 'Office Supplies', 'Marketing', 'Advertisements' etc. Associate each of your expenses with a category for easy search-ability and filtering.
     fontawesome_icon_name                 : adjust
 
-  - title                                 : Scanned Documents
-    description                           : When you scan a receipt with Receipts's document scanner the app's computer vision processes any found text and values detected on the receipt
+  - title                                 : Computer Vision
+    description                           : When you scan a receipt with the Receipts app's document scanner the app's computer vision processes any found text and values detected on the receipt.
     fontawesome_icon_name                 : magic
   
   - title                                 : Security
-    description                           : All documents and images stored with Receipts are securely encrypted with Apple's industry standard file encryption systems
+    description                           : All documents and images stored with the Receipts app are securely encrypted with Apple's file encryption system.
     fontawesome_icon_name                 : star
 
   - title                                 : Export
-    description                           : All expenses and receipts stored with Receipts can easily be exported as PDF Expense Reports or the raw receipts themselves. All expenses for a time period can also be exported as comma-separated values (CSV) files
+    description                           : All expenses and receipts stored with the Receipts app can be exported as PDF Expense Reports. Your expenses within the Receipts app can also be exported as comma-separated values (CSV) files for sharing with your account or inserted into Excel sheets.
     fontawesome_icon_name                 : arrow-alt-circle-up
 
   - title                                 : Search
-    description                           : Images that are processed with Receipt's computer vision process have all associated text indexed and searchable. Search all of your expenses by name, amount, associated text within a receipt and more!
+    description                           : Receipts that are processed with the Receipts app have all associated text indexed and searchable. This means that you can search your expenses by name, dollar amount, and even any text contained within a receipt!
     fontawesome_icon_name                 : magic
 
 
