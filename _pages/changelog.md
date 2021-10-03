@@ -12,3 +12,14 @@ include_in_header: true
 ### `Initial Release`
 # **Version 1.0**
 Initial version of Receipts released to the App Store!
+
+### `Bug Fixes`
+# ** Version 1.0.1**
+Bug fixes and improvements
+
+### `Search Within Receipts`
+# **Version 1.1.0**
+- Search and highlight text within a receipt image
+- Sort expenses by name, date or totals
+- View expense categories
+- Bug fixes and improvements
