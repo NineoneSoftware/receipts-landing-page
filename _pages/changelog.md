@@ -23,3 +23,7 @@ Bug fixes and improvements
 - Sort expenses by name, date or totals
 - View expense categories
 - Bug fixes and improvements
+
+### `Bug Fixes`
+# ** Version 1.1.1**
+Bug fixes and improvements
